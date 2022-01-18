@@ -18,10 +18,11 @@ in perpetuity.
 These are the steps needed to install and run TF2000 BETA on TwinCAT/BSD.  WARNING, these are not production ready steps and are only to be used for testing and development.  The final official installation steps will be provided by Beckhoff as/when TF2000 comes out of BETA.   
 
 ## Getting Started
-This guide will start on a Virtual box (not relevent) with TwinCAT/BSD pre-installed.  User is Administrator, password is 1.  
+This guide will start on a Virtual box (not relevent) with TwinCAT/BSD pre-installed.  
+In this example, the doas User is Administrator, password is 1.  
 
 ### Installing the TF2000 package
-![image](./docs/images/Screenshot.png)
+Steps following shortly...
 
 ## Versions
 * TwinCAT/Bsd 12.2.11.1
